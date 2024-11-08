@@ -1,4 +1,4 @@
-/*Givsa Web*/
+/*Andev Web*/
 .heart {
   position: absolute;
   height: calc(var(--size) * 1vmin);
